@@ -1,4 +1,3 @@
-BlackBerry10Logger
-==================
+### BlackBerry10Logger
 
-A logger for BlackBerry10
+A logger for BlackBerry 10.
