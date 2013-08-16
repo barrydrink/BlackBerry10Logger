@@ -45,7 +45,7 @@ CascadesLoggerLib::CascadesLoggerLib() {
 	if (m_logFile->open(QIODevice::WriteOnly)) {
 		QTextStream out(m_logFile);
 		QDateTime now = QDateTime::currentDateTime();
-		out << "Penrillian Logging Library" << "\n\n" << "Created by the Penrillian, 2013, http://penrillian.com" << "\n\n";
+		out << "Penrillian Logging Library" << "\n\n" << "Created by Penrillian, 2013, http://www.penrillian.com" << "\n\n";
 		out << now.toString() << "\n" << "==============================" << "\n\n" << "Start of log..." << "\n";
 		m_logFile->close();
 	}

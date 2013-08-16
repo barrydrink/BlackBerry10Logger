@@ -25,7 +25,7 @@ To perform ad-hoc logging:
 To disable logging to the file system, simply delete the folder with the app's name from /shared/documents.
 
 ************************************************************
-Created by Penrillian - www.penrillian.com
+Created by Penrillian, 2013. www.penrillian.com
 
 For support contact barry@penrillian.com/sami@penrillian.com
 ************************************************************
