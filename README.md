@@ -4,6 +4,7 @@ The Penrillian logging library allows BB10 apps to write log statements to the f
 
 For full instructions and screen shots, see docs/PenrillianLoggingLibrary.pdf
 
+
 Instructions for building and including into other projects:
 1 - Import the logger project into your IDE and export a release build, or build from the command line if you prefer.
 2 - Copy libCascadesLoggerLib.so and CascadesLoggerLib.hpp into a folder in the project’s (the project which will be using the logger) file structure. Using the IDE (v10.2 is used in this example), right click the project, select "Configure" then "Add Library". Choose "External Library" then select libCascadesLoggerLib.so for the "Device Library" and the folder containing CascadesLoggerLib.hpp as the "Include Folder".
